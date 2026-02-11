@@ -36,6 +36,6 @@ The analysis followed a standardized geospatial workflow to ensure hydrological 
 * [cite_start]**Drainage Complexity:** The final model delineates a complex network reaching a **6th-order stream**, indicating a significant catchment area and high runoff capacity for the basin[cite: 19, 77].
 
 ## 🤝 Contact & Support
-Created by [Your Name]
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your GitHub Link]
+Created by [Hemungshew Borgohain]
+* **LinkedIn:** [https://www.linkedin.com/in/hemungshew-borgohain-651ba235a/]
+* **GitHub:** [https://github.com/hemungshewborgohain7777]
